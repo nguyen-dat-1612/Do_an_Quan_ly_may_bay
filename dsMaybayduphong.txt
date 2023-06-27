@@ -1,0 +1,21 @@
+20
+MB01             Airbus_A350                               5 20 0    0 
+MB02             Airbus_A321                               4 15 0    0 
+MB03             Airbus_A321                               4 15 0    0 
+MB04             Boeing_737-800                            3 14 0    0 
+MB05             Airbus_A320                               4 10 0    0 
+MB06             Boeing_747-400                            4 15 0    0 
+MB07             Airbus_A319                               4 15 0    0 
+MB08             Airbus_A380                               5 15 0    0 
+MB09             Boeing_777-200ER                          3 18 0    0 
+MB10             Airbus_A321neo                            4 16 0    0 
+MB11             Airbus_A350-900                           5 20 0    0 
+MB12             Boeing_787-9                              3 17 0    0 
+MB13             Boeing_787-10                             3 18 0    0 
+MB14             Airbus_A320neo                            4 15 0    0 
+MB15             Boeing_787-9                              3 17 0    0 
+MB16             ATR_72                                    4 18 0    0 
+MB17             Embraer_E-Jet                             5 20 0    0 
+MB18             DHC-6_Twin_Otter                          5 20 0    0 
+MB19             Cessna_208_Caravan                        4 15 0    0 
+MB20             Yakovlev_Yak-40                           5 20 0    0 
