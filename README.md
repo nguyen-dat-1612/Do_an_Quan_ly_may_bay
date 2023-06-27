@@ -1,6 +1,7 @@
 # Do_an_Quan_ly_may_bay
 Đồ án quản lý máy bay PTIT khóa 2021.
-* ĐỀ BÀI:
+
+ĐỀ BÀI:
 Quản lý các chuyến bay nội địa thuộc 1 hãng hàng không:
 Ta có các danh sách sau:
 - Máy bay: mảng con trỏ có tối đa 300 máy bay. 
@@ -29,7 +30,6 @@ f/ In danh sách các chuyến bay khởi hành trong  ngày dd/mm/yyyy đến n
 g/ In danh sách các vé còn trống của 1 chuyến bay có mã chuyến bay là X. 
 h/ Thống kê số lượt thực hiện chuyến bay của từng máy bay theo thứ tự  số lượt thực hiện giảm dần. Kết xuất:
 	Số hiệu máy bay		Số lượt thực hiện chuyến bay
-
 Lưu ý: Chương trình cho phép lưu các danh sách vào file; Kiểm tra các điều kiện khi nhập liệu làm dữ liệu bị sai. 
 
 CHỨC NĂNG:
@@ -40,33 +40,31 @@ CHỨC NĂNG:
 5. In danh sách các hành khách thuộc 1 chuyến bay dựa vào mã chuyến bay
 6. Thống kê số lượt thực hiện chuyến bay của từng máy bay
 
-* LƯU Ý
+LƯU Ý
 -	Đối với con trỏ sử dụng toán tử new phải giải phóng vùng nhớ, cần giải phóng bộ nhớ trong xóa máy bay
 -	Chú ý làm kĩ các file
 -	Chú ý bắt lỗi thời gian
 -	Chú ý phần nhập chuỗi kí tự trên màn hình ( Nhập thừa khoảng trắng ở cuối, ở giữa và ở đầu; về kí tự thường và hoa)
 -	Lưu ý cực kì quan trọng: Nếu có gì thắc mắc về logic của chương trình thì chủ động hỏi thầy để biết chi tiết
-* NHẬN XÉT CỦA THẦY: 
+
+NHẬN XÉT CỦA THẦY: 
 Sai đề ở phần giới hạn số dãy số chỗ ngồi của máy bay:
 Cụ thể: Mình làm giới hạn số dãy tối đa là 5 và số dòng tối đa là 20. Theo đề phải là số dãy lớn hơn 5 và số dòng lớn hơn 20. Ảnh hưởng đến số vé của chuyến bay.
 Sai đề ở phần xóa một máy bay:
 Cụ thể: Xóa máy bay -> những chuyến bay tương lai bị hủy chuyến. Theo thầy chỉ xóa máy bay khi không có chuyến bay trong tương lai.
 
-* CÀI THƯ VIỆN:
+CÀI THƯ VIỆN:
 Tham khảo: https://www.youtube.com/watch?v=mQfiVtDBSfw
 
-* NHỮNG LƯU Ý VỀ LÀM VIỆC ĐỒ ÁN VÀ THI:
-
+NHỮNG LƯU Ý VỀ LÀM VIỆC ĐỒ ÁN VÀ THI:
 Về đồ án:
 Ở phần khai báo các bạn nên chia mỗi người làm một danh sách.
 Khi chia câu cho mỗi người làm thì nên chia sao cho đều. Đều ở đây là mỗi người đều được tiếp cận với mỗi phần ở trong chương trình để hiểu rõ chương trình, không phải là tôi làm hết những câu trên phần máy bay, bạn làm hết các câu trên phần chuyến bay …
 Có thời gian thì nên tối ưu thuật toán. Đặc biệt với thuật toán tìm kiếm và sắp xếp.
-
 Về thi: (khoảng dưới 30p)
 Thầy sẽ hỏi về thuật toán chứ không quan tâm về đồ họa nhưng thầy sẽ có thể hỏi thuật toán chạy thế nào mà em in ra 9 máy bay này trên 1 trang rồi sang trang em in ra được mấy cái phía sau.
 Thầy sẽ bảo giải thích thuật toán chạy như thế nào? Nếu sai hỏi biết sai chỗ nào không và hỏi biết sửa không? Nếu thuật toán chưa tối ưu thì thầy sẽ hỏi làm thế nào để tối ưu, dùng thuật toán nào để tối ưu?
 Nếu một bạn trả lời không được thì thầy sẽ hỏi bạn còn lại có hiểu phần bạn đó làm không và giải thích nên tốt nhất bạn nào cũng phải hiểu hết toàn bộ chương trình.
 Cuối cùng thầy sẽ có một câu hỏi phụ hoặc cho làm bài tập, câu hỏi phụ thường là một file có số phần tử, mảng có bao nhiêu phần tử thì làm cách nào load file và sắp xếp phần tử:  nhanh nhất, tối ưu nhất và tiết kiệm bộ nhớ nhất
-
 Về điểm thi:
 Mỗi người sẽ có điểm riêng tùy thuộc vào mức độ hiểu biết của bản thân trong quá trình vấn đáp với Thầy.
